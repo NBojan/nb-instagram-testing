@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "jwt",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Im15dGVzdGluZ0B0ZXN0aW5nLmNvbSIsImV4cCI6MTcyMTkwODY5OH0.qxhgWZxGKZ5yhQXidGAQzhrqUX5OXH2HrpnD42z3sY8",
+      "domain": "nb-instagram.vercel.app",
+      "path": "/",
+      "expires": 1721908696.741402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
